@@ -1,0 +1,101 @@
+body {
+    background-color: #eee;
+}
+.imeg {
+    position: absolute;
+    left: 273px;
+    height: 88px;
+    width: 95px;
+}
+.est {
+    color: blue;
+    font-size: large;
+    width: 248px;
+    position: absolute;
+    left: 371px;
+}
+.h-one {
+    color: #ff6b05;
+    position: absolute;
+    left: 299px;
+    top: 250px;
+    font-family: math;
+    font-size: 19px;
+}
+.ee {
+    position: absolute;
+    left: 300px;
+    top: 351px;
+    font-size: 25px;
+    font-family: system-ui;
+    color: #272525;
+}
+.aaa {
+    width: 210px;
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    color: #686464;
+}
+.sss {
+    position: absolute;
+    top: 350px;
+    left: 586px;
+    font-size: 25px;
+    font-family: system-ui;
+    color: #272525;
+}
+.zzz {
+    position: absolute;
+    top: 389px;
+    left: 586px;
+    font-family: system-ui;
+    color: #686464;
+    width: 242px;
+}
+.www {
+    position: absolute;
+    top: 349px;
+    left: 965px;
+    font-size: 25px;
+    font-family: system-ui;
+    color: #272525;
+}
+.ooo {
+    position: absolute;
+    top: 410px;
+    left: 974px;
+    font-family: system-ui;
+    color: #686464;
+    width: 272px;
+}
+.iii {
+    position: absolute;
+    top: 759px;
+    left: 550px;
+    width: 350px;
+}
+.vvv {
+    position: absolute;
+    top: 1229px;
+    left: 102px;
+    font-size: large;
+    color: #100cc8;
+}
+.links {
+    display: block;
+    padding: 30px 25px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #502305;
+    background: #d5d1d1;
+    margin: 0px 1px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-align: center;
+    position: absolute;
+    bottom: 800px;
+    left: 742px;
+    width: 455px;
+}
